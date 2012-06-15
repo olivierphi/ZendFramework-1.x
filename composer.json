@@ -1,0 +1,11 @@
+{
+    "name": "dr-benton/zend-framework-1.x",
+    "type": "library",
+    "license": "New BSD License - http://framework.zend.com/license/new-bsd",
+    "homepage": "http://framework.zend.com/",
+    "autoload": {
+        "psr-0" : {
+            "Zend_" : "lib/"
+        }
+    }
+}
